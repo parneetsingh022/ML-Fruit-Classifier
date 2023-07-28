@@ -1,6 +1,7 @@
 # ML-Fruit-Classifier
 
-This notebook demonstrates how to build and train a convolutional neural network (CNN) to classify images of fruits. The dataset contains 732 images of bananas, mangoes and watermelons, divided into 3 classes. <br>
+This notebook demonstrates how to build and train a convolutional neural network (CNN) to classify images of fruits. The dataset contains 732 images of bananas, mangoes and watermelons, divided into 3 classes.
+
 <img src="https://github.com/parneetsingh022/ML-Fruit-Classifier/assets/99793808/bb7db8ed-0709-4739-990e-068645eb5dd7" width="500px"><br>
 
 The notebook uses TensorFlow 2.7 and Keras to create the model, which consists of the following layers:
